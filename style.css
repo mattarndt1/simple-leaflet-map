@@ -1,9 +1,4 @@
-
-html,
-body,
-#viewDiv {
-  padding: 4px;
-  margin: 0;
-  height: 400px;
+#mapid { 
+  height: 400px; 
   width: 500px;
 }
